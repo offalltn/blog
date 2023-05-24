@@ -1,4 +1,7 @@
-
+---
+title: "CYLERT_CTF_WRITEUP"
+date: 2023-05-24
+---
 Cylert CTF Challenge Writeup
 Hello everyone, it was my pleasure to meet you all at the CDIS Conference last week.
 I had the opportunity to make a simple network challenge and I was delighted to have good feedback about the challenge. The challenge is aimed for beginner to early intermediate CTF players. Let’s dive to the writeup right away.
